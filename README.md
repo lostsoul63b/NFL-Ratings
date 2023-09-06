@@ -1,11 +1,13 @@
 # ESPN NFL 2K5 Rosters
 
 ### What you will find
-This Repo offers players a central location to download roster files and datasets. Please use the links below for tools and other roster projects.
+This Repo offers players a central location to download roster files and datasets.
 
+### Revitalization Roster Project
 ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
 [Checkout my Revitalization Rosters](https://github.com/lostsoul63b/Roster-Revitalization)
 
+### Tools
 ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
 [Click here for BAD_AL's 2k5tool](https://github.com/BAD-AL/NFL2K5Tool/releases)
 
@@ -30,8 +32,8 @@ _____
   * Franchise Includes 2023-2024 Schedule
   * Global attribute reduction
 _____
-## Roster Downloads
-| Roster Version | File Download | Notes | Tutorial |
+## 2023 Roster Downloads
+| Version | Download | Notes | Tutorial |
 | :------------- | :-------------: | :------------- | :------------- |
 | NFL 2023 Offseason | [Ros](https://www.mediafire.com/file/4mlenj0xjtd2meb/SLUS-20919_ESPN_NFL_2K5_CMjuly22_98B9DF4E.max/file) | Roster by JSK and CujoMatty |  |
 | NFL 2023 Preseason | [Ros + Fran](https://www.mediafire.com/file/gzl20hc7lpaln13/NFL2023_CampRatings.zip/file) | M23 launch ratings | [Camp Vid](https://youtu.be/2D6xDZzjo3Y) |
@@ -40,6 +42,7 @@ _____
 | NFL 2023 Week 12 (v3.3) | [Ros + Fran](https://www.mediafire.com/file/r8pli5mukfm492y/NFL2023_Week12Ratings_v3.3.zip/file) | Week 12 Madden Ratings | [Wk12 Vid](https://youtu.be/TysswiDCvYo) |
 | NFL 2023 Week 18 | [Ros + Fran](https://www.mediafire.com/file/jhi7inotgizvajd/NFL2023_Week18Ratings.zip/file) | Week 18 Madden Ratings | [Wk18 Vid](https://youtu.be/prxvhKwh7Zw) |
 
+## 2024 Roster Downloads
 | Version | Download | Notes | Tutorial |
 | :------------- | :-------------: | :------------- | :------------- |
 | NFL 2024 Preseason | [Ros](https://www.mediafire.com/file_premium/cyioqzhn8nztq0b/NFL_2024_Preseason.zip/file) |  |  |
