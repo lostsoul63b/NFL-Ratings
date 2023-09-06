@@ -32,7 +32,15 @@ _____
   * Franchise Includes 2023-2024 Schedule
   * Global attribute reduction
 _____
-## 2023 Roster Downloads
+## 2024 Rosters
+| Version | Download | Notes | Tutorial |
+| :------------- | :-------------: | :------------- | :------------- |
+| NFL 2024 Preseason v2 | [Ros](https://www.mediafire.com/file_premium/j9lupq2tse6ds27/NFL_2024_Preseason_v2.zip/file) | Final Camp Roster Update |  |
+| NFL 2024 Preseason | [Ros](https://www.mediafire.com/file_premium/cyioqzhn8nztq0b/NFL_2024_Preseason.zip/file) | Collab roster |  |
+| NFL 2024 Offseason | [Ros](https://www.mediafire.com/file_premium/cakdsnmadgps7dr/NFL2024_OffSeasonRos.zip/file) | Trades only |  |
+| NFL 2024 Rookies | [Ros](https://www.mediafire.com/file_premium/g13wbf1sz971qmp/NFL2024_Rookies.zip/file) | Credit bossthugga1 |  |
+
+## 2023 Rosters
 | Version | Download | Notes | Tutorial |
 | :------------- | :-------------: | :------------- | :------------- |
 | NFL 2023 Offseason | [Ros](https://www.mediafire.com/file/4mlenj0xjtd2meb/SLUS-20919_ESPN_NFL_2K5_CMjuly22_98B9DF4E.max/file) | Roster by JSK and CujoMatty |  |
@@ -42,13 +50,6 @@ _____
 | NFL 2023 Week 12 (v3.3) | [Ros + Fran](https://www.mediafire.com/file/r8pli5mukfm492y/NFL2023_Week12Ratings_v3.3.zip/file) | Week 12 Madden Ratings | [Wk12 Vid](https://youtu.be/TysswiDCvYo) |
 | NFL 2023 Week 18 | [Ros + Fran](https://www.mediafire.com/file/jhi7inotgizvajd/NFL2023_Week18Ratings.zip/file) | Week 18 Madden Ratings | [Wk18 Vid](https://youtu.be/prxvhKwh7Zw) |
 
-## 2024 Roster Downloads
-| Version | Download | Notes | Tutorial |
-| :------------- | :-------------: | :------------- | :------------- |
-| NFL 2024 Preseason | [Ros](https://www.mediafire.com/file_premium/cyioqzhn8nztq0b/NFL_2024_Preseason.zip/file) | Collab roster |  |
-| NFL 2024 Offseason | [Ros](https://www.mediafire.com/file_premium/cakdsnmadgps7dr/NFL2024_OffSeasonRos.zip/file) | Trades only |  |
-| NFL 2024 Rookies | [Ros](https://www.mediafire.com/file_premium/g13wbf1sz971qmp/NFL2024_Rookies.zip/file) | Credit bossthugga1 |  |
- 
 _____
 ## Installation
 **PS2 / PCSX2**
