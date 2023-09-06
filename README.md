@@ -36,9 +36,9 @@ _____
 | Version | Download | Notes | Tutorial |
 | :------------- | :-------------: | :------------- | :------------- |
 | NFL 2024 Preseason v2 | [Ros](https://www.mediafire.com/file_premium/j9lupq2tse6ds27/NFL_2024_Preseason_v2.zip/file) | Final Camp Roster Update |  |
-| NFL 2024 Preseason | [Ros](https://www.mediafire.com/file_premium/cyioqzhn8nztq0b/NFL_2024_Preseason.zip/file) | Collab roster |  |
-| NFL 2024 Offseason | [Ros](https://www.mediafire.com/file_premium/cakdsnmadgps7dr/NFL2024_OffSeasonRos.zip/file) | Trades only |  |
-| NFL 2024 Rookies | [Ros](https://www.mediafire.com/file_premium/g13wbf1sz971qmp/NFL2024_Rookies.zip/file) | Collab roster |  |
+| NFL 2024 Preseason | [Ros](https://www.mediafire.com/file_premium/cyioqzhn8nztq0b/NFL_2024_Preseason.zip/file) | Camp Roster |  |
+| NFL 2024 Offseason | [Ros](https://www.mediafire.com/file_premium/cakdsnmadgps7dr/NFL2024_OffSeasonRos.zip/file) | Trades |  |
+| NFL 2024 Rookies | [Ros](https://www.mediafire.com/file_premium/g13wbf1sz971qmp/NFL2024_Rookies.zip/file) | Rookies |  |
 
 ## 2023 Rosters
 | Version | Download | Notes | Tutorial |
