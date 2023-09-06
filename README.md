@@ -50,6 +50,22 @@ _____
 | NFL 2023 Week 12 (v3.3) | [Ros + Fran](https://www.mediafire.com/file/r8pli5mukfm492y/NFL2023_Week12Ratings_v3.3.zip/file) | Week 12 Madden Ratings | [Wk12 Vid](https://youtu.be/TysswiDCvYo) |
 | NFL 2023 Week 18 | [Ros + Fran](https://www.mediafire.com/file/jhi7inotgizvajd/NFL2023_Week18Ratings.zip/file) | Week 18 Madden Ratings | [Wk18 Vid](https://youtu.be/prxvhKwh7Zw) |
 
+## 2022 Rosters
+| Roster Version | File Download | Notes |
+| :------------- | :-------------: | :------------- |
+| Madden Camp Ratings | [Ros + Fran](https://www.mediafire.com/file/wz45zvbbkpx8q7n/NFL2K22CampRatings.zip/file) | Camp Rosters |
+| CujoMatty Week 1 Ratings | [Ros + Fran](https://www.mediafire.com/file/lt91808bee6314b/CujoMatty_Week1Ratings.zip/file) | Includes Hi and Low ratings |
+| CujoMatty Week 1 Fixed Schedule | [Fran only](https://www.mediafire.com/file/29d0hhj4xfk4ryf/CMFranW1-FixSchedule-11072021.zip/file) | Includes djsteveo627 fixed schedule |
+| Madden Week 2 | [Ros + Fran](https://www.mediafire.com/file/fanv1p7qzu1rfxo/NFL2022Week2.zip/file) | No ratings message |
+| Madden Week 3 | [Ros Only](https://www.mediafire.com/file/3fgucln4fbd9jd2/NFL2022Week3.zip/file) | Hex + Vanilla |
+| Madden Week 4 | [Ros Only](https://www.mediafire.com/file/9co1ebuvmps23rx/NFL2022Week4.zip/file) | Hex + Vanilla |
+| Madden Week 5 | [Ros Only](https://www.mediafire.com/file/k92pqv3vqpmbmbr/NFL2022Week5.zip/file) | Hex + Vanilla |
+| Madden Week 6 | [Ros Only](https://www.mediafire.com/file/mu1ydgv8115wb5c/NFL2022Week6.zip/file) | Hex + Vanilla |
+| Madden Week 7 | [Ros Only](https://www.mediafire.com/file/ddmjekjqkvufkgq/NFL2022Week7.zip/file) | Hex + Vanilla |
+| Madden Week 8 | [Ros Only](https://www.mediafire.com/file/9g2rrl9qekajvm8/NFL2022Week8-LowHi.zip/file) | Hex + Vanilla + Hi + Low |
+| Madden Week 9 | [Ros + Fran](https://www.mediafire.com/file/cqxxw7mq1ihp5rm/NFL22Week9Ratings.zip/file) | D. Brees to FA, city hex updates, fixed schedule |
+| Madden Week 18 | [Ros + Fran](https://www.mediafire.com/file/d67n7d4cs94vx8f/NFL2022Week18.zip/file) | Hex + Vanilla + Hi + Low |
+
 _____
 ## Installation
 **PS2 / PCSX2**
