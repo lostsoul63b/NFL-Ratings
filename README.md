@@ -35,6 +35,7 @@ _____
 ## 2024 Rosters
 | Version | Download | Notes | Tutorial |
 | :------------- | :-------------: | :------------- | :------------- |
+| NFL 2024 Week 9 | [Ros]() | Week 9 Rosters |  |
 | NFL 2024 Week 1 | [Ros+Fra](https://www.mediafire.com/file/7xbarjl7s910lvu/NFL+2024+Week+1+Ratings.zip/file) | Week 1 Rosters |  |
 | NFL 2024 Preseason v2 | [Ros](https://www.mediafire.com/file_premium/j9lupq2tse6ds27/NFL_2024_Preseason_v2.zip/file) | Final Camp Roster Update |  |
 | NFL 2024 Preseason | [Ros](https://www.mediafire.com/file_premium/cyioqzhn8nztq0b/NFL_2024_Preseason.zip/file) | Camp Roster |  |
