@@ -1,5 +1,7 @@
 # ESPN NFL 2K5 Rosters
 
+![2024-Wk9Ratings](https://github.com/lostsoul63b/NFL-Ratings/assets/69597675/29c7ec38-7027-4e53-8d85-e01fd5830048)
+
 ### What you will find
 This Repo offers players a central location to download roster files and datasets.
 
