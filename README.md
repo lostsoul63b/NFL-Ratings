@@ -1,6 +1,6 @@
 # ESPN NFL 2K5 Rosters
 
-![2024-Wk9Ratings](https://github.com/lostsoul63b/NFL-Ratings/assets/69597675/29c7ec38-7027-4e53-8d85-e01fd5830048)
+![2025CampRatings](https://github.com/user-attachments/assets/65f118c5-0f38-4caf-8aee-aa6afd06eb77)
 
 ### What you will find
 This Repo offers players a central location to download roster files and datasets.
@@ -34,6 +34,11 @@ _____
   * Franchise Includes 2023-2024 Schedule
   * Global attribute reduction
 _____
+## 2025 Rosters
+| Version | Download | Notes | Tutorial |
+| :------------- | :-------------: | :------------- | :------------- |
+| NFL 2025 Camp | [Ros]() | Camp Rosters |  |
+
 ## 2024 Rosters
 | Version | Download | Notes | Tutorial |
 | :------------- | :-------------: | :------------- | :------------- |
@@ -73,13 +78,16 @@ _____
 _____
 ## Installation
 **PS2 / PCSX2**
- * Follow your current transfer method and use the game saves in the PS2 folders (Fran/Ros)
+ * Follow your current transfer method and use the game saves in the PS2 folders
 
 **PS3**
- * Follow your current transfer method and use the game saves in the PS3 folders (Fran/Ros)
+ * Follow your current transfer method and use the game saves in the PS3 folders
 
 **Xbox**
- * Follow your current transfer method and use the game saves in the Xbox folders (Fran/Ros)
+ * Follow your current transfer method and use the game saves in the Xbox folders
+
+**Xemu**
+ * Follow your current transfer method and use the game saves in the Xbox folders
 _____ 
 ## Credits
 *This file is a collaborative effort from the NFL2K5 Modding Community. Big Credit to LostsouL, BAD_AL, CujoMatty, egb11, seskid, JSK, SteelPro43, djsteveo627, nemo and anyone else who's helped contribute to this years Roster project.*
