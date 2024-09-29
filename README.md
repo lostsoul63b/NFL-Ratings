@@ -32,7 +32,6 @@ _____
   * Updated Coaches
   * Increased Franchise Salary Cap $198.2M
   * Franchise Includes 2024-2025 Schedule
-  * Global attribute reduction
   * Support for Xbox, PS2, PS3, Xemu
 _____
 ## 2025 Rosters
