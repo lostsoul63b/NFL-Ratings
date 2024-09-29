@@ -31,24 +31,26 @@ _____
   * Updated Redskins to WFB Team
   * Updated Coaches
   * Increased Franchise Salary Cap $198.2M
-  * Franchise Includes 2023-2024 Schedule
+  * Franchise Includes 2024-2025 Schedule
   * Global attribute reduction
+  * Support for Xbox, PS2, PS3, Xemu
 _____
 ## 2025 Rosters
 | Version | Download | Notes | Tutorial |
 | :------------- | :-------------: | :------------- | :------------- |
 | NFL 2025 Camp | [Ros](https://www.mediafire.com/file_premium/0bi3i3vt9vxobgm/ESPN_NFL_2025_Madden_Rosters.zip/file) | Camp Rosters |  |
 | APF2K8 2025 Camp | [Ros](https://www.mediafire.com/file_premium/4mnnk5bnhincsx5/APF25_CampRos.zip/file) | Camp Rosters |  |
+| NFL 2025 Week 1 | [Ros+Fra]() | Week 1 Rosters |  |
 
 ## 2024 Rosters
 | Version | Download | Notes | Tutorial |
 | :------------- | :-------------: | :------------- | :------------- |
-| NFL 2024 Week 9 | [Ros](https://www.mediafire.com/file_premium/879kivg5xx436xt/NFL_2024_Week_9_Ratings.zip/file) | Week 9 Rosters |  |
-| NFL 2024 Week 1 | [Ros+Fra](https://www.mediafire.com/file/7xbarjl7s910lvu/NFL+2024+Week+1+Ratings.zip/file) | Week 1 Rosters |  |
-| NFL 2024 Preseason v2 | [Ros](https://www.mediafire.com/file_premium/j9lupq2tse6ds27/NFL_2024_Preseason_v2.zip/file) | Final Camp Roster Update |  |
-| NFL 2024 Preseason | [Ros](https://www.mediafire.com/file_premium/cyioqzhn8nztq0b/NFL_2024_Preseason.zip/file) | Camp Roster |  |
-| NFL 2024 Offseason | [Ros](https://www.mediafire.com/file_premium/cakdsnmadgps7dr/NFL2024_OffSeasonRos.zip/file) | Trades |  |
 | NFL 2024 Rookies | [Ros](https://www.mediafire.com/file_premium/g13wbf1sz971qmp/NFL2024_Rookies.zip/file) | Rookies |  |
+| NFL 2024 Offseason | [Ros](https://www.mediafire.com/file_premium/cakdsnmadgps7dr/NFL2024_OffSeasonRos.zip/file) | Trades |  |
+| NFL 2024 Preseason | [Ros](https://www.mediafire.com/file_premium/cyioqzhn8nztq0b/NFL_2024_Preseason.zip/file) | Camp Roster |  |
+| NFL 2024 Preseason v2 | [Ros](https://www.mediafire.com/file_premium/j9lupq2tse6ds27/NFL_2024_Preseason_v2.zip/file) | Final Camp Roster Update |  |
+| NFL 2024 Week 1 | [Ros+Fra](https://www.mediafire.com/file/7xbarjl7s910lvu/NFL+2024+Week+1+Ratings.zip/file) | Week 1 Rosters |  |
+| NFL 2024 Week 9 | [Ros](https://www.mediafire.com/file_premium/879kivg5xx436xt/NFL_2024_Week_9_Ratings.zip/file) | Week 9 Rosters |  |
 
 ## 2023 Rosters
 | Version | Download | Notes | Tutorial |
