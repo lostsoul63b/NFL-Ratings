@@ -40,7 +40,7 @@ _____
 | :------------- | :-------------: | :------------- | :------------- | :------------- |
 | NFL 2025 Camp | [Ros](https://www.mediafire.com/file_premium/0bi3i3vt9vxobgm/ESPN_NFL_2025_Madden_Rosters.zip/file) | Camp Rosters |  |  |
 | APF2K8 2025 Camp | [Ros](https://www.mediafire.com/file_premium/4mnnk5bnhincsx5/APF25_CampRos.zip/file) | Camp Rosters |  |  |
-| NFL 2025 Week 1 | [Ros+Fra]() | Week 1 Rosters |  | 7e1f6c9f0d5ca67d87e9515bb9441281831774837958c7fd315114610acbf090 |
+| NFL 2025 Week 1 | [Ros+Fra]() | Week 1 Rosters |  | 21d51c30f1d7a89c0007c4d19d0b2bf3a306193e59a33ff7d28081c5adda2557 |
 
 ## 2024 Rosters
 | Version | Download | Notes | Tutorial |
