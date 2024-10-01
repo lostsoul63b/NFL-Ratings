@@ -36,11 +36,11 @@ _____
   * Support for Xbox, PS2, PS3, Xemu
 _____
 ## 2025 Rosters
-| Version | Download | Notes | Tutorial |
-| :------------- | :-------------: | :------------- | :------------- |
-| NFL 2025 Camp | [Ros](https://www.mediafire.com/file_premium/0bi3i3vt9vxobgm/ESPN_NFL_2025_Madden_Rosters.zip/file) | Camp Rosters |  |
-| APF2K8 2025 Camp | [Ros](https://www.mediafire.com/file_premium/4mnnk5bnhincsx5/APF25_CampRos.zip/file) | Camp Rosters |  |
-| NFL 2025 Week 1 | [Ros+Fra]() | Week 1 Rosters |  |
+| Version | Download | Notes | Tutorial | Hash |
+| :------------- | :-------------: | :------------- | :------------- | :------------- |
+| NFL 2025 Camp | [Ros](https://www.mediafire.com/file_premium/0bi3i3vt9vxobgm/ESPN_NFL_2025_Madden_Rosters.zip/file) | Camp Rosters |  |  |
+| APF2K8 2025 Camp | [Ros](https://www.mediafire.com/file_premium/4mnnk5bnhincsx5/APF25_CampRos.zip/file) | Camp Rosters |  |  |
+| NFL 2025 Week 1 | [Ros+Fra]() | Week 1 Rosters |  | 7e1f6c9f0d5ca67d87e9515bb9441281831774837958c7fd315114610acbf090 |
 
 ## 2024 Rosters
 | Version | Download | Notes | Tutorial |
