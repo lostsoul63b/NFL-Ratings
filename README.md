@@ -17,7 +17,7 @@ This Repo offers players a central location to download roster files and dataset
 [Click here for 2k5master's Draft Class Tool](https://github.com/2k5master/ESPN-NFL-2K5-Draft-Class-Generator)
 _____
 
-### All Rosters include
+### Rosters include
   * Full 53 Player Rosters
   * Updated Player Equipment
   * Updated Player photos
@@ -40,7 +40,7 @@ _____
 | NFL 2025 Camp | [Ros](https://www.mediafire.com/file_premium/0bi3i3vt9vxobgm/ESPN_NFL_2025_Madden_Rosters.zip/file) | Camp Rosters |  |  |
 | APF2K8 2025 Camp | [Ros](https://www.mediafire.com/file_premium/4mnnk5bnhincsx5/APF25_CampRos.zip/file) | Camp Rosters |  |  |
 | NFL 2025 Week 1 | [Ros+Fra](https://www.mediafire.com/file_premium/9l7vsy1hoqzqyum/NFL2025_Week1.zip/file) | Week 1 Rosters | [Video](https://youtu.be/X-G7DgwLD0o) | 21d51c30f1d7a89c0007c4d19d0b2bf3a306193e59a33ff7d28081c5adda2557 |
-| NFL 2025 Week 6 | [Ros](https://www.mediafire.com/file_premium/f6169251c0nj4by/NFL2025_Week6.zip/file) |  |  | 3A417703A3F743643AB6339DB7FB63F077F183F21007A513D2400C87CA341DC6 |
+| NFL 2025 Week 6 | [Ros](https://www.mediafire.com/file_premium/f6169251c0nj4by/NFL2025_Week6.zip/file) | Week 6 Rosters |  | 3A417703A3F743643AB6339DB7FB63F077F183F21007A513D2400C87CA341DC6 |
 
 ## 2024 Rosters
 | Version | Download | Notes | Tutorial |
