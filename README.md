@@ -1,7 +1,6 @@
 # ESPN NFL 2K5 Rosters
 
-![2025Week1](https://github.com/user-attachments/assets/9f99e226-ac67-466c-86fe-b2a2be231302)
-
+![Week6Ratings](https://github.com/user-attachments/assets/0b00bb9d-1bfa-43f2-a3fd-c718b6d2790c)
 
 ### What you will find
 This Repo offers players a central location to download roster files and datasets.
@@ -41,7 +40,7 @@ _____
 | NFL 2025 Camp | [Ros](https://www.mediafire.com/file_premium/0bi3i3vt9vxobgm/ESPN_NFL_2025_Madden_Rosters.zip/file) | Camp Rosters |  |  |
 | APF2K8 2025 Camp | [Ros](https://www.mediafire.com/file_premium/4mnnk5bnhincsx5/APF25_CampRos.zip/file) | Camp Rosters |  |  |
 | NFL 2025 Week 1 | [Ros+Fra](https://www.mediafire.com/file_premium/9l7vsy1hoqzqyum/NFL2025_Week1.zip/file) | Week 1 Rosters | [Video](https://youtu.be/X-G7DgwLD0o) | 21d51c30f1d7a89c0007c4d19d0b2bf3a306193e59a33ff7d28081c5adda2557 |
-| NFL 2025 Week 6 | [Ros]() | Week 6 Rosters | [Video]() |  |
+| NFL 2025 Week 6 | [Ros](https://www.mediafire.com/file_premium/f6169251c0nj4by/NFL2025_Week6.zip/file) |  |  | 3A417703A3F743643AB6339DB7FB63F077F183F21007A513D2400C87CA341DC6 |
 
 ## 2024 Rosters
 | Version | Download | Notes | Tutorial |
