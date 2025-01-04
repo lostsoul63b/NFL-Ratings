@@ -3,7 +3,7 @@
 ![Week14Ratings](https://github.com/user-attachments/assets/02931e9b-00df-4ea1-af73-a91f50a2a037)
 
 ### What you will find
-This Repo offers players a central location to download roster files and datasets.
+This Repo offers players a central location to download roster files and datasets for the NFL 2K5 Mod
 
 #### Revitalization Roster Project
 ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
