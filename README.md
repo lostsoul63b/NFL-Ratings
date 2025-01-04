@@ -1,6 +1,6 @@
 # ESPN NFL 2K5 Rosters
 
-![Week6Ratings](https://github.com/user-attachments/assets/0b00bb9d-1bfa-43f2-a3fd-c718b6d2790c)
+![Week14Ratings](https://github.com/user-attachments/assets/02931e9b-00df-4ea1-af73-a91f50a2a037)
 
 ### What you will find
 This Repo offers players a central location to download roster files and datasets.
@@ -27,8 +27,8 @@ _____
   * Updated PBP  
   * Updated City for OAK, STL, SD teams (L.Vegas Raiders, L.Angeles Chargers, L.Angeles Rams)
   * Updated in-game scoreboard for Chargers (LA), Raiders (LVR), Rams (LAR)
-  * Updated Stadiums (Allegiant, St. Farm, Sofi, Levis)
-  * Updated Redskins to WFB Team
+  * Updated Stadiums (LVR - Allegiant, ARZ - St. Farm)
+  * Updated Redskins to WAS Comm
   * Updated Coaches
   * Increased Franchise Salary Cap $198.2M
   * Franchise Includes 2024-2025 Schedule
@@ -41,6 +41,7 @@ _____
 | APF2K8 2025 Camp | [Ros](https://www.mediafire.com/file_premium/4mnnk5bnhincsx5/APF25_CampRos.zip/file) | Camp Rosters |  |
 | NFL 2025 Week 1 | [Ros+Fra](https://www.mediafire.com/file_premium/9l7vsy1hoqzqyum/NFL2025_Week1.zip/file) | Week 1 Rosters | [Video](https://youtu.be/X-G7DgwLD0o) |
 | NFL 2025 Week 6 | [Ros](https://www.mediafire.com/file_premium/f6169251c0nj4by/NFL2025_Week6.zip/file) | Week 6 Rosters |  |
+| NFL 2025 Week 14 | [Ros]() | Week 14 Rosters |  |
 
 ## 2024 Rosters
 | Version | Download | Notes | Tutorial |
