@@ -1,6 +1,6 @@
 # ESPN NFL 2K5 Rosters
 
-![2026CampRatings](https://github.com/user-attachments/assets/195e1900-2b75-461d-af18-42c7b151a1eb)
+![2026CampRatings](https://github.com/user-attachments/assets/de503553-bc62-4be2-b04f-c501f2974af1)
 
 ### What you will find
 This Repo offers players a central location to download roster files and datasets for the NFL 2K5 Mod
