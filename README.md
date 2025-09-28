@@ -1,6 +1,6 @@
 # ESPN NFL 2K5 Rosters
 
-![2026CampRatings](https://github.com/user-attachments/assets/de503553-bc62-4be2-b04f-c501f2974af1)
+![2026Ratings](https://github.com/user-attachments/assets/7b8be732-3370-43dc-8c2c-262d8331f4c2)
 
 ### What you will find
 This Repo offers players a central location to download roster files and datasets for the NFL 2K5 Mod
@@ -28,15 +28,16 @@ _____
   * Updated City for OAK, STL, SD teams (L.Vegas Raiders, L.Angeles Chargers, L.Angeles Rams)
   * Updated in-game scoreboard for Chargers (LA), Raiders (LVR), Rams (LAR)
   * Updated Stadiums (LVR - Allegiant, ARZ - St. Farm)
-  * Updated Redskins to WAS Comm
   * Updated Coaches
   * Increased Franchise Salary Cap $198.2M
-  * Franchise Includes 2024-2025 Schedule
-  * Support for Xbox, PS2, PS3, Xemu
+  * Franchise Includes 2025-2026 Schedule
+  * Support for Xbox, PS2, PS3
+  * Mike Oneal's playbooks
 _____
 ## 2026 Rosters
 | Version | Download | Notes | Tutorial |
 | :------------- | :-------------: | :------------- | :------------- |
+| NFL 2026 Week 2 | [Ros+Fra](https://www.mediafire.com/file_premium/xqqfl8t9ckc3gza/NFL26Week2.zip/file) | Week 2 | |
 | NFL 2026 Camp | [Ros](https://www.mediafire.com/file_premium/ndduvhwfryj72ge/NFL2026Camp.zip/file) | Camp Rosters |  |
 
 ## 2025 Rosters
