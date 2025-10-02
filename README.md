@@ -38,6 +38,7 @@ _____
 | Version | Download | Notes | Tutorial |
 | :------------- | :-------------: | :------------- | :------------- |
 | NFL 2026 Week 2 | [Ros+Fra](https://www.mediafire.com/file_premium/xqqfl8t9ckc3gza/NFL26Week2.zip/file) | Week 2 | |
+| APF 2026 Week 2 | [Ros+Fra]() | Week 2 | |
 | NFL 2026 Camp | [Ros](https://www.mediafire.com/file_premium/ndduvhwfryj72ge/NFL2026Camp.zip/file) | Camp Rosters |  |
 
 ## 2025 Rosters
