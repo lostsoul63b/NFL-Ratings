@@ -37,7 +37,7 @@ _____
 ## 2026 Rosters
 | Version | Download | Notes | Tutorial |
 | :------------- | :-------------: | :------------- | :------------- |
-| NFL 2025 Week 9 v1.1 | [Ros+Fra](https://www.mediafire.com/file_premium/qbqfguagsf79knm/NFL2026Week9_v1.1.zip/file) | Week 9 | |
+| NFL 2025 Week 9 v1.1 | [Ros+Fra](https://www.mediafire.com/file_premium/qbqfguagsf79knm/NFL2026Week9_v1.1.zip/file) | Week 9 (fixed sch) | |
 | NFL 2026 Week 2 | [Ros+Fra](https://www.mediafire.com/file_premium/xqqfl8t9ckc3gza/NFL26Week2.zip/file) | Week 2 | |
 | APF 2026 Week 2 | [Ros+Fra](https://www.mediafire.com/file_premium/wbkdk16zofib7co/APF26Ros.zip/file) | Week 2 | |
 | NFL 2026 Camp | [Ros](https://www.mediafire.com/file_premium/ndduvhwfryj72ge/NFL2026Camp.zip/file) | Camp Rosters |  |
